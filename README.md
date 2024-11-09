@@ -1,7 +1,6 @@
 # Project-1.3.8
 
 import java.util.Scanner;
-
 public class AdventureGame {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
